@@ -1,36 +1,44 @@
 const DemoData = [
-    [
-        {
-            img: '/demo/captaim-America.png'
-        },
-    ],
-    [
-        {
-            img: '/demo/Iron-Man.png'
-        },
-        {
-            img: '/demo/Mrs-Marvel.png'
-        },
-    ],
+  [],
+  [
+    /*   {
+              id: '2',
+              img: '/demo/Mrs-Marvel.png'
+          },
+          {
+              id: '3',
+              img: '/demo/Witcher.png'
+          }, */
+  ],
+  [
+    {
+      id: "2",
+      img: "/demo/Bat-Man.png",
+    },
+    {
+      id: "3",
+      img: "/demo/Fantastic-4.png",
+    },
+    {
+      id: "4",
+      img: "/demo/captaim-America.png",
+    },
+  ],
+  [
+    {
+      id: "6",
+      img: "/demo/Avengers.png",
+    },
+    {
+      id: "1",
+      img: "/demo/Iron-Man.png",
+    },
+    {
+      id: "5",
+      img: "/demo/Justic-Leauge.png",
+    },
+  ],
+  [],
+];
 
-
-    [
-        {
-            img: '/demo/Bat-Man.png'
-        },
-        {
-            img: '/demo/Fantastic-4.png'
-        },
-    ],
-    [
-
-        {
-            img: '/demo/Justic-Leauge.png'
-        },
-        {
-            img: '/demo/Avengers.png'
-        },
-    ],
-]
-
-export default DemoData
+export default DemoData;
